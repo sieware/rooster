@@ -6,5 +6,5 @@
 
 This is the develop branch of [rooster] and a complete reimplementation [cmangos/classic].
 
-[rooster]: https://github.com/christiansiewert/rooster
+[rooster]: https://github.com/christiansiewert/rooster/tree/rooster
 [cmangos/classic]: https://github.com/cmangos/classic
