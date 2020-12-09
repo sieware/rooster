@@ -1,6 +1,6 @@
-# Rooster
+<img src="https://github.com/christiansiewert/rooster/raw/rooster/docs/logo.jpg" />
 
-[LOGO](https://github.com/christiansiewert/rooster)
+# Rooster
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/christiansiewert/rooster)
 
