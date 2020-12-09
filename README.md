@@ -4,6 +4,7 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/christiansiewert/rooster)
 
-This is a fork branch of [cmangos/mangos-classic] and a complete reimplementation of this emulator.
+This is the develop branch of [rooster] and a complete reimplementation [cmangos/classic].
 
-[cmangos/mangos-classic]: https://github.com/cmangos/mangos-classic
+[rooster]: https://github.com/christiansiewert/rooster
+[cmangos/classic]: https://github.com/cmangos/classic
