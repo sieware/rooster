@@ -7,4 +7,4 @@
 This is the develop branch of [rooster] and a complete reimplementation of [cmangos/classic].
 
 [rooster]: https://github.com/christiansiewert/rooster/tree/rooster
-[cmangos/classic]: https://github.com/cmangos/classic
+[cmangos/mangos-classic]: https://github.com/cmangos/mangos-classic
