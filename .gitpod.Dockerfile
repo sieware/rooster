@@ -12,5 +12,5 @@ USER gitpod
 # More information: https://www.gitpod.io/docs/config-docker/
 
 RUN sudo apt-get -q update && \
-    sudo apt-get install -yq libboost-all-dev && \
+    sudo apt-get install -yq libboost-all-dev mariadb-server && \
     sudo rm -rf /var/lib/apt/lists/*
