@@ -8,3 +8,9 @@ This is the develop branch of [rooster] and a complete reimplementation of [cman
 
 [rooster]: https://github.com/christiansiewert/rooster/tree/rooster
 [cmangos/mangos-classic]: https://github.com/cmangos/mangos-classic
+
+## Build example
+
+### Configure
+
+`cmake ../SRC_DIR/ -DCMAKE_INSTALL_PREFIX=\../SRC_DIR/run -DBUILD_EXTRACTORS=ON -DPCH=1 -DDEBUG=0 -DBUILD_PLAYERBOT=ON`
