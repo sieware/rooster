@@ -13,4 +13,9 @@ This is the develop branch of [rooster] and a complete reimplementation of [cman
 
 ### Configure
 
-`cmake ../SRC_DIR/ -DCMAKE_INSTALL_PREFIX=\../SRC_DIR/run -DBUILD_EXTRACTORS=ON -DPCH=1 -DDEBUG=0 -DBUILD_PLAYERBOT=ON`
+```
+cd build/
+cmake ../src/ -DCMAKE_INSTALL_PREFIX=\../src/run -DBUILD_EXTRACTORS=ON -DPCH=1 -DDEBUG=0 -DBUILD_PLAYERBOT=ON
+make
+make install
+```
