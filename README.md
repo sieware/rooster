@@ -4,10 +4,20 @@
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/christiansiewert/rooster)
 
-This is the develop branch of [rooster] and a complete reimplementation of [cmangos/classic].
+This is the develop branch of Rooster and a complete reimplementation of the [cmangos] backend emulators.
 
-[rooster]: https://github.com/christiansiewert/rooster/tree/rooster
-[cmangos/mangos-classic]: https://github.com/cmangos/mangos-classic
+[cmangos]: https://github.com/cmangos
+
+## Directory structure
+
+- **bin/** - shell scripts or something similar
+- **build/** - output directory for build artifacts
+- **docs/** - documentation 
+- **src/** - sourcecode
+  - **src/databases/** - setup and/or sql files for creating our databases
+  - **src/server/** - sourcecode for our server backends (vanilla, tbc, wotlk, etc.)
+
+We'll try to handle each database and backend server as a separate repository so we can inject those as a git submodule.
 
 ## Build example
 
