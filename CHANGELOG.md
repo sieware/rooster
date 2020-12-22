@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+### Added
+
+- GitPod configuration files
+- base directory structure for Rooster
+
 ## [0.0.2] - 2020-12-09 (Anno Domini)
 
 ### Added
