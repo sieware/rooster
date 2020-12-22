@@ -1,4 +1,4 @@
-<img src="https://github.com/christiansiewert/rooster/raw/rooster/docs/logo.jpg" />
+<img src="https://raw.githubusercontent.com/christiansiewert/rooster/rooster-develop/docs/logo.jpg" />
 
 # Rooster
 
