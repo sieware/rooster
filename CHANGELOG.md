@@ -10,7 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ### Changed
 
-## [0.0.3] 2020-12-22 (E pluribus unum)
+## [0.0.3] - 2020-12-22 (E pluribus unum)
 
 ### Added
 
