@@ -32,6 +32,6 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - base application
 
 [Unreleased]: https://github.com/christiansiewert/rooster/compare/v0.0.3...rooster-develop
-[0.0.2]: https://github.com/christiansiewert/rooster/compare/v0.0.2...v0.0.3
+[0.0.3]: https://github.com/christiansiewert/rooster/compare/v0.0.2...v0.0.3
 [0.0.2]: https://github.com/christiansiewert/rooster/compare/v0.0.1...v0.0.2
 [0.0.1]: https://github.com/christiansiewert/rooster/releases/tag/v0.0.1
