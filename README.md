@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/christiansiewert/rooster/rooster-develop/docs/logo.jpg" />
+<img src="https://raw.githubusercontent.com/sieware/rooster/develop/docs/logo.jpg" />
 
 # Rooster
 
@@ -16,16 +16,5 @@ This is the develop branch of Rooster and a complete reimplementation of the [cm
   - **src/server/** - sourcecode for our server backends (vanilla, tbc, wotlk, etc.)
 
 We'll try to handle each database and backend server as a separate repository so we can inject those as a git submodule.
-
-## Build example
-
-### Configure
-
-```
-cd build/
-cmake ../src/ -DCMAKE_INSTALL_PREFIX=\../src/run -DBUILD_EXTRACTORS=ON -DPCH=1 -DDEBUG=0 -DBUILD_PLAYERBOT=ON
-make
-make install
-```
 
 [cmangos]: https://github.com/cmangos
