@@ -2,11 +2,9 @@
 
 # Rooster
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/christiansiewert/rooster)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/sieware/rooster)
 
 This is the develop branch of Rooster and a complete reimplementation of the [cmangos] backend emulators.
-
-[cmangos]: https://github.com/cmangos
 
 ## Directory structure
 
@@ -29,3 +27,5 @@ cmake ../src/ -DCMAKE_INSTALL_PREFIX=\../src/run -DBUILD_EXTRACTORS=ON -DPCH=1 -
 make
 make install
 ```
+
+[cmangos]: https://github.com/cmangos
